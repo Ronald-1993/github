@@ -62,6 +62,8 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 https://tu-live.cybercdn.live/tutorah_live/kids21080/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",TuToráMúsica
 https://tu-live.cybercdn.live/tutorah_live/Music_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",JBS, the Jewish Broadcasting Service
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",The Western Wall in Jerusalem | The Wall | The Western Wall
 https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_11SP/chunks.m3u8
 # 
