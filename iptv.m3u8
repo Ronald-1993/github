@@ -72,6 +72,8 @@ https://apptvjudaica.cyberti.com.br/WebRTCApp/streams/tvjudaica.m3u8
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Hidabroot
 https://htv-live.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Musayof
+https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/chunklist_w359451479.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",The Western Wall in Jerusalem | The Wall | The Western Wall
