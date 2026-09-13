@@ -6,6 +6,8 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr@SD" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr@SD" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16427&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=mirametv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&gdpr=%5BGDPR%5D&content_id=mirametv_live&device_type=%5BDEVICE_TYPE%5D&ip=%5BIP%5D&min_ad_duration=6&max_ad_duration=120&ua=%5BUA%5D
 #EXTINF:-1 tvg-id="AKCTV.us@SD" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="Outdoor",AKC TV Meet The Breeds
@@ -74,10 +76,14 @@ https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 https://htv-live.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Musayof
 https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/chunklist_w359451479.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",The Western Wall in Jerusalem | The Wall | The Western Wall
 https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_11SP/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",The Prayer Square
+https://cdn1.cast-tv.com/23595/Live_Kotel2_ABR/23595/Live_Kotel2_11SP/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Wilson’s Ark
+https://cdn1.cast-tv.com/23595/Live_Kotel1_ABR/23595/Live_Kotel1_4K_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Welcome to Old City, Jerusalem, Israel!
+https://video2archives.earthcam.com/earthcamtv-vod/_definst_/mp4:archives/7949/backup.mp4/playlist.m3u8
 # 
 #EXTINF:-1 tvg-id="GEMNature.tr@SD" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Documentary",GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
